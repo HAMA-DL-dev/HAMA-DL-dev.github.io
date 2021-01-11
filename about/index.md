@@ -1,24 +1,25 @@
 ---
 layout: page
-title: About the Theme
+title: Who am I ?
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://hama-dl-dev.github.io//"><b>여기는</b></a> 호기심 많은 오박사님의 블로그</center>
+## Major
+* 한양대학교 ERICA 캠퍼스 전자공학부
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Research Interests
+* Deep Learning
+* Embedded system
+* IoT
+* SoC
+* BMS
+
+## Projects
+
+## Awards 
 
 ## Preview
 
