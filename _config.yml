@@ -5,7 +5,7 @@ description:        "저는 전자과 출신의 개발자입니다! SW와 HW 두
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/hakase.jpg.jpg'
-background:         'assets/img/pokemon background img.png'
+background:         'assets/img/pokemon.png'
 tiled_bg:           true   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://hama-dl-dev.github.io/
