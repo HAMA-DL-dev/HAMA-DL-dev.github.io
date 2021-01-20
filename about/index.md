@@ -17,6 +17,6 @@ comments: false
 * SoC (State of Charge)
 * BMS (Battery Management System)
 
-## Projects
-* 아두이노를 이용한 DC2259 BMS 시스템 설계 및 보수 유지 
+## Project
+* 아두이노를 이용한 DC2259 BMS 시스템 설계
 ## Awards 
