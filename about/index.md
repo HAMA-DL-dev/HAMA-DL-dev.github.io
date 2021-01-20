@@ -11,12 +11,12 @@ comments: false
 * 한양대학교 ERICA 캠퍼스 전자공학부
 
 ## Research Interests
-* Deep Learning
+* Deep Learning / AI_vision
 * Embedded system
-* IoT
-* SoC
-* BMS
+* IoT (Internet of Thing)
+* SoC (State of Charge)
+* BMS (Battery Management System)
 
 ## Projects
-
+* 아두이노를 이용한 DC2259 BMS 시스템 설계 및 보수 유지 
 ## Awards 
