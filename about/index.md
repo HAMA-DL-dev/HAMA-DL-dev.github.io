@@ -13,9 +13,10 @@ comments: false
 ## Research Interests
 * Deep Learning / AI_vision
 * Embedded system
+* SoC (System on Chip)
 * IoT (Internet of Thing)
-* SoC (State of Charge)
 * BMS (Battery Management System)
+* SoC (State of Charge)
 
 ## Project
 * 아두이노를 이용한 DC2259 BMS 시스템 설계
