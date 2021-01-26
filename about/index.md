@@ -17,7 +17,8 @@ comments: false
 * IoT (Internet of Thing)
 * BMS (Battery Management System)
 * SoC (State of Charge)
+* Frimware
 
 ## Project
-* 아두이노를 이용한 DC2259 BMS 시스템 설계
+* 아두이노를 기반으로 한 DC2259 BMS의 CV, AUX 데이터 분석
 ## Awards 
