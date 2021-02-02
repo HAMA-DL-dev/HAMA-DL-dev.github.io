@@ -21,4 +21,4 @@ comments: false
 
 ## Project
 * 아두이노를 기반으로 한 DC2259 BMS의 CV, AUX 데이터 분석
-## Awards 
+
