@@ -12,13 +12,11 @@ comments: false
 
 ## Research Interests
 * Deep Learning / AI_vision
-* Embedded system
+* Embedded system & Frimware
 * SoC (System on Chip)
 * IoT (Internet of Thing)
 * BMS (Battery Management System)
-* SoC (State of Charge)
-* Firmware
-
+* 
 ## Contributed
 * 아두이노를 기반으로 한 DC2259 BMS의 CV, AUX 데이터 분석
 * DC2259 의 Discharge Control Switch 제어 알고리즘 작성
